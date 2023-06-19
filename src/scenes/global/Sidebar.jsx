@@ -81,7 +81,7 @@ const Sidebar = () => {
                                     variant='h3'
                                     color={colors.grey[100]}
                                 >
-                                    ADMINIS
+                                    ADMIN
                                 </Typography>
                                 <IconButton
                                     onClick={() => setIsCollapsed(!isCollapsed)}
@@ -117,13 +117,13 @@ const Sidebar = () => {
                                     fontWeight='bold'
                                     sx={{ m: '10px 0 0 0' }}
                                 >
-                                    Ed Roh
+                                    John Doe
                                 </Typography>
                                 <Typography
                                     variant='h5'
                                     color={colors.greenAccent[500]}
                                 >
-                                    VP Fancy Admin
+                                    General Manager
                                 </Typography>
                             </Box>
                         </Box>
